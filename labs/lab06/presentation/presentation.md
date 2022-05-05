@@ -3,26 +3,11 @@
 lang: ru-RU
 title: Structural approach to the deep learning method
 author: |
-	Leonid A. Sevastianov\inst{1,3}
-	\and
-	Anton L. Sevastianov\inst{1}
-	\and
-	Edik A. Ayrjan\inst{2}
-	\and
-	Anna V. Korolkova\inst{1}
-	\and
-	Dmitry S. Kulyabov\inst{1,2}
-	\and
-	Imrikh Pokorny\inst{4}
+	Аксенова Анастасия
 institute: |
 	\inst{1}RUDN University, Moscow, Russian Federation
-	\and
-	\inst{2}LIT JINR, Dubna, Russian Federation
-	\and
-	\inst{3}BLTP JINR, Dubna, Russian Federation
-	\and
-	\inst{4}Technical University of Košice, Košice, Slovakia
-date: NEC--2019, 30 September -- 4 October, 2019 Budva, Montenegro
+	
+date: 2022, 5 May
 
 ## Formatting
 toc: false
@@ -39,7 +24,7 @@ section-titles: true
 
 # Лабораторная работа 6
 ##Поиск файлов. Перенаправление ввода-вывода. Просмотр запущенных процессов
-###Аксенова Анастасия
+
 
 ## Цель работы
 
